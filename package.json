@@ -1,13 +1,25 @@
 {
   "name": "simple-create-react-app",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "main": "index.js",
-  "license": "MIT",
   "bin": {
     "simple-create-react-app": "./index.js"
   },
   "scripts": {
     "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanyuzhang/simple-create-react-app.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app"
+  ],
+  "author": "Chess Zhang",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
   },
   "dependencies": {
     "chalk": "^2.4.1",
