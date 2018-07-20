@@ -1,5 +1,5 @@
-#### 这是一个简化版本的 create-react-app
-这是一个100行代码的简化版本的` create-react-app `，去除了环境检测、版本检测、离线包检测等代码，只保留了创建` react ` 项目的核心代码。只用过学习，其他用途不承担任何风险责任。线上项目，请使用官方的` create-react-app `
+#### 这是一个简化版的 create-react-app
+这是一个100行代码的简化版的` create-react-app `，去除了环境检测、版本检测、离线包检测等代码，只保留了创建` react ` 项目的核心代码。只用作学习，其他用途不承担任何风险责任。线上项目，请使用官方的` create-react-app `
 
 #### 功能介绍：
 * 其他的可选参数全部会忽略，像` simple-craete-react-app --inof `会无视的。
