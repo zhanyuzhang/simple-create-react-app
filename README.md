@@ -14,5 +14,22 @@
 npm install -g simple-create-react-app
 
 # 然后在你想要创建react项目的地方运行：
-simple-create-react-app your-project-name 
+simple-create-react-app my-app
+
+# 等待几分钟后
+cd my-app && npm start
 ```
+
+如果你想要下载代码在本地运行的话可以这样：
+```
+# 下载代码：
+git clone 'https://github.com/zhanyuzhang/simple-create-react-app.git'
+# 进入到根目录，安装依赖：
+yarn
+# 然后创建一个项目：
+npm start my-app
+
+# 等待执行完毕后，执行：
+cd my-app && npm start
+```
+
