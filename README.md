@@ -24,9 +24,10 @@ cd my-app && npm start
 ```
 # 下载代码：
 git clone 'https://github.com/zhanyuzhang/simple-create-react-app.git'
-# 进入到根目录，安装依赖：
 
+# 进入到根目录，安装依赖：
 yarn
+
 # 然后创建一个项目：
 npm start my-app
 
